@@ -1,0 +1,9 @@
+<launch>
+
+
+  <node name="bubble_space_node" pkg="localizationISL" type="bubble_space_node" output="screen" >
+
+<param name="learned_place_dir_path" type="string" value="/home/esen/2016-06-12-20:01:07" />
+
+</node>
+</launch>
